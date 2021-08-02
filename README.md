@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lee Jun
 - 👀 I’m interested in Web
 - 🌱 I’m currently learning algorithm
-- 📫 How to reach me : juniv1118@gmail.com
+- 📫 How to reach me : ejun1118@gmail.com
 
 <!---
 LeeJun1118/LeeJun1118 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
